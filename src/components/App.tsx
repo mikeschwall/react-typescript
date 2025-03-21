@@ -1,9 +1,8 @@
-import TodoList from "./TodoList";
 
 const App:React.FC = () => {
     return (
         <div>
-            <TodoList/>
+            test
             
         </div>
     )
